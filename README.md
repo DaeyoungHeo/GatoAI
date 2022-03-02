@@ -63,7 +63,7 @@ Gato A.I. 를 사용하고 관리하는 방법을 알려드립니다.
  위와 같이 표시하면 사이트의 하단에 다음과 같이 나타납니다.
 
 ---
-<div align=center>\n<a href=\"http://example.org\">링크1</a> &nbsp; | &nbsp; <a href=\"http://another.org\">링크2</a>\n</div>
+<div align=center><a href="http://example.org">링크1</a> &nbsp; | &nbsp; <a href="http://another.org">링크2</a></div>
 
 ---
 
